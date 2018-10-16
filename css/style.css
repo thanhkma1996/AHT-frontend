@@ -1,0 +1,92 @@
+body {
+    color: white;
+    font-family: Arial,sans-serif;
+    font-size: 14px;
+ }
+
+.menu-top { border-bottom: 1px solid gray; color: white;padding-bottom: 10px;}
+.menu-header { background-color: #120807; opacity: 4.0;}
+.email { padding-left: 10px;}
+.link { color: white; padding-top:14px; padding-left: 20px;}
+.cart { color:white; padding-top: 14px;}
+.cart span {padding-left: 10px;}
+.english span {padding-left: 93px;}
+
+.link { margin-left: 110px;}
+.link ul li{ list-style-type: none;}
+.link ul li a {padding-left: 20px; text-decoration: none; font-size: 16px;}
+.link ul li a:hover { color:#fff582;}
+
+.text-center {
+  position: absolute;
+  left: 468px;
+  top: 371px;
+  color: white;
+}
+.text-center .shopping { border-radius: 20px; }
+
+.link-demo { margin-top:20px;}
+.link-demo .view {
+    position: absolute;
+    top:80%; left: 40%;
+    background-color: white;
+    color: black;
+    border:1px solid white;
+    width: 150px;
+  }
+.link-demo .livingroom {
+  position: absolute;
+  top:40%;
+  left: 40%;
+  background-color: white;
+  color: black;
+  border:1px solid white;
+  width: 150px;
+}
+
+.bedroom {
+    margin-top: 25px;
+ }
+
+ .banner { margin-top: 20px;}
+ .banner-sale {
+   position: absolute;
+   top:70%;
+   left: 10%;
+ }
+ .lamp {
+   position: absolute;
+   top:40%;
+   left: 35%;
+ }
+.lamp .shopping { border-radius: 20px; width: 150px; background: white; color:black; border:1px solid black;}
+
+.seller p{text-align: center; margin-top:7%; font-weight: bold; font-size:20px;}
+
+.lookbook p {
+  position: absolute;
+  top:40%;
+  left: 40%;
+  color: white;
+}
+
+.sale1 p{
+  position: absolute;
+  top:40%;
+  left: 40%;
+  color: white;
+}
+
+.btn .seller {
+  background-color: white;
+  border-radius: 20px;
+  border: 1px solid black;
+  color: black;
+  font-weight: bold;
+}
+.btn .shopping {
+  background-color: white;
+  color: gray;
+  border-radius: 20px;
+  border: 1px solid white;
+}
