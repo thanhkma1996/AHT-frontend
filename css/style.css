@@ -4,11 +4,11 @@ body {
     font-size: 14px;
  }
 
-.menu-top { border-bottom: 1px solid gray; color: white;padding-bottom: 10px; padding-top: 10px;}
+.menu-top { border-bottom: 1px solid gray; color: white;padding-bottom: 10px; padding-top: 10px}
 .header   { background-color:#140e0d; position: absolute;top: 0%; opacity: 0.7; }
 .email { padding-left: 10px;}
 .link { color: white; padding-top:14px; padding-left: 20px;}
-.cart { color:white; padding-top: 14px;}
+.cart { color:white; padding-top: 14px; }
 .cart span {padding-left: 10px;}
 .menu-top .english span {position: absolute; right: 23px;}
 
@@ -95,6 +95,8 @@ body {
   border-radius: 20px;
   border: 1px solid white;
 }
+
+.btn span { padding-bottom: 20px;}
 /* HOT PRODUCT */
 .image { position:relative; width: 50%;}
 .image p{ color: #222222;  font-family: 'Poppins', sans-serif;}
